@@ -1,0 +1,40 @@
+{
+  "application": {
+    "id": 694852528239804426,
+    "manifests": [
+		{
+		  "label": "ankarus/windows",
+		  "platforms": ["win32", "win64"],
+		  "locales": [],
+		  "local_root": "./Jeu",
+		  
+		  "file_rules": {
+			"mappings": [
+			  {
+				"local_path": ".",
+				"install_path": "."
+			  }
+			],
+			"properties": [
+			  {
+				"install_path": "save.json",
+				"attributes": ["user_data"]
+			  }
+			]
+
+		  },
+		  "launch_options": [
+			  {
+				"name": "Ankarus",
+				"executable": "Ankarus.exe",
+				"arguments": [],
+				"platforms": ["win32", "win64"],
+				"working_dir": "data/"
+			  }
+
+        ]
+		}
+	
+	]
+  }
+}

@@ -1,0 +1,15 @@
+{
+	listePacks: [
+		{
+			codeName: "principal_pack",
+			listeNiveauFile: "principal_pack.json",
+			nbNiveau: 30,
+			miniature: "Images/minia_principal.jpg"
+	
+		},
+	
+	
+	
+	]
+	
+}
