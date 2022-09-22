@@ -1,4 +1,8 @@
 {
-  "description": "Test description",
+  "description": "
+      # Ankarus, c'est quoi ?
+      Ankarus est un jeu que j'ai créé où le but est de réussir tout les niveaux en envoyant la *balle* dans le *trou noir*.
+  
+  ",
   "creationDate": "2020-03-01"
 }
